@@ -2,6 +2,9 @@
 
 ## Features
 
+- displays tooltip on hover
+- fancy animation on hover
+
 ## Technologies used
 
 - HTML
